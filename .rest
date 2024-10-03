@@ -1,0 +1,8 @@
+###
+GET http://localhost:8080/coffees HTTP/1.1
+
+###
+GET http://localhost:8080/coffees/06d29ce3-5472-4c76-98fb-2c4b1022739b HTTP/1.1
+
+###
+GET http://localhost:8080/coffees/0 HTTP/1.1
