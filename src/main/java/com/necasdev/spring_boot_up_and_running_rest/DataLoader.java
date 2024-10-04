@@ -2,8 +2,6 @@ package com.necasdev.spring_boot_up_and_running_rest;
 
 import java.util.List;
 
-import com.necasdev.spring_boot_up_and_running_rest.Coffee;
-
 import org.springframework.stereotype.Component;
 
 import jakarta.annotation.PostConstruct;
